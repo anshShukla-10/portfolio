@@ -4,12 +4,12 @@ const projects = [
   {
     title: "Smart Link Hub",
     desc: "A full-stack linktree clone with QR code generation, authentication and theme customization.",
-    link: "#"
+    link: "https://we-link-eosin.vercel.app/"
   },
   {
-    title: "Portfolio v1",
-    desc: "My personal digital garden. Minimalist design built with React and Tailwind.",
-    link: "#"
+    title: "Sonic Graph",
+    desc: "A high-performance audio visualization engine that renders real-time frequency data",
+    link: "https://sonic-graph-c1tg.vercel.app/"
   },
   {
     title: "Music Production",

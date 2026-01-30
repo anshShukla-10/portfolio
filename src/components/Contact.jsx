@@ -4,9 +4,8 @@ import { ArrowUpRight } from 'lucide-react';
 const Contact = () => {
   const socials = [
     { name: "Email", link: "mailto:thisisanshshukla@gmail.com" },
-    { name: "Twitter / X", link: "#" },
+    { name: "Twitter / X", link: "https://x.com/Anshshukl_" },
     { name: "LinkedIn", link: "#" },
-    { name: "Instagram", link: "#" },
   ];
 
   return (
