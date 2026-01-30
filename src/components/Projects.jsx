@@ -12,9 +12,9 @@ const projects = [
     link: "https://sonic-graph-c1tg.vercel.app/"
   },
   {
-    title: "Music Production",
-    desc: "A collection of beats and ambient tracks I've produced.",
-    link: "#"
+    title: "SentinAL",
+    desc: "An AI based copyright claim platform with inbuilt web crawler",
+    link: "https://github.com/TrombokenduShiv/SentinAL/tree/main"
   }
 ];
 
