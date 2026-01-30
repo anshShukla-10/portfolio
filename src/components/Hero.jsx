@@ -43,7 +43,7 @@ const Hero = () => {
             href="mailto:email@example.com" 
             className="text-white underline decoration-blue-500 decoration-wavy underline-offset-4 decoration-1 hover:decoration-2 transition-all"
           >
-            email@example.com
+            thisisanshshukla@gmail.com
           </a>.
         </p>
       </div>

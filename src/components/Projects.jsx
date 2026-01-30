@@ -2,8 +2,8 @@ import { ArrowUpRight } from 'lucide-react';
 
 const projects = [
   {
-    title: "Task Master",
-    desc: "A full-stack to-do application with custom local authentication and file-system database.",
+    title: "Smart Link Hub",
+    desc: "A full-stack linktree clone with QR code generation, authentication and theme customization.",
     link: "#"
   },
   {
