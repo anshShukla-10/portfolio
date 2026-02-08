@@ -1,9 +1,9 @@
 const TechStack = () => {
   // Matches the 3-column layout in the image
   const stack = [
-    { items: ["React", "TypeScript", "Motion Design"] },
+    { items: ["React", "TypeScript", "Mongoose"] },
     { items: ["Next.js", "Tailwind CSS", "Figma"] },
-    { items: ["React Native", "UI/UX Design", "System Architecture"] }
+    { items: ["Express.js", "MongoDB", "Node.js"] }
   ];
 
   return (
